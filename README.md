@@ -68,7 +68,6 @@ Open `packages.txt` and add one package name per line:
 com.example.appone
 com.example.apptwo
 com.mycompany.toolapp
-vng.games.mygame
 ```
 
 **Rules:**
